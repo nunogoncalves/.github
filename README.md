@@ -1,1 +1,1 @@
-# .github
+# Nuno Gonçalves @ Farfetch
